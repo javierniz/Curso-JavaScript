@@ -28,3 +28,4 @@ do{
 alert("la suma de todos los numero es: " + suma);           
 alert("La media de todos los numeros ingresados es: " + (suma / contador));
 alert("Mensajde nuevo de todos los datos ");
+alert("Mensaje de nuevos para probar")
